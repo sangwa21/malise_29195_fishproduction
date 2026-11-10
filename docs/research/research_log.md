@@ -59,4 +59,21 @@ Tilley, A., Dos Reis Lopes, J., & Wilkinson, S. P. (2020). PeskAAS: A near-real-
 
 **Relevance:** This system demonstrates how fisheries information can be organized and presented through dashboards. It provides ideas for the interactive dashboard planned for this project.
 
-**Source link:** https://doi.org/10.1371/journal.pone.0234760
+**Source link:** https://doi.org/10.1371/journal.pone.0234760 
+## Source 4: Dataset
+
+**Dataset name:** FAO Fishery and Aquaculture Statistics (FishStat)
+
+**Organization:** Food and Agriculture Organization of the United Nations (FAO)
+
+**Year:** 2026 (latest release)
+
+**Description:** FAO FishStat provides annual global statistics on aquaculture and capture fisheries production. The data includes production quantities by country, species, and year.
+
+**APA Reference:**
+
+Food and Agriculture Organization of the United Nations. (2026). Global fisheries and aquaculture production statistics (FishStat). https://www.fao.org/statistics/data-collection/fishery-and-aquaculture/en
+
+**Relevance:** This dataset will provide the production records for the project. The system will use relevant Rwanda records to analyze fish production trends, compare aquaculture and capture fisheries, and generate dashboard summaries.
+
+**Data license:** Check the specific dataset's licence and attribution requirements before redistribution.

@@ -43,3 +43,20 @@ Sources will be reviewed and documented here.
 **Summary:** This study examined 67 fish farms in Rwanda. It identified three commonly farmed fish species: Nile tilapia, common carp, and North African catfish. It also examined fish farming methods and local feed ingredients.
 
 **Relevance:** This research helps identify fish species and farming methods that can be considered when designing the project's database.
+## Source 3: Existing Fisheries Monitoring System
+
+**System name:** PeskAAS (Peskas)
+
+**Organization:** WorldFish and research partners
+
+**Year:** 2020
+
+**Description:** PeskAAS is an open-source digital fisheries monitoring and analytics system developed and tested in Timor-Leste. It collects, processes, analyzes, and displays fishing catch information through an interactive dashboard.
+
+**APA Reference:**
+
+Tilley, A., Dos Reis Lopes, J., & Wilkinson, S. P. (2020). PeskAAS: A near-real-time, open-source monitoring and analytics system for small-scale fisheries. PLoS ONE, 15(11), e0234760. https://doi.org/10.1371/journal.pone.0234760
+
+**Relevance:** This system demonstrates how fisheries information can be organized and presented through dashboards. It provides ideas for the interactive dashboard planned for this project.
+
+**Source link:** https://doi.org/10.1371/journal.pone.0234760

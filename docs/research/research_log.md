@@ -76,4 +76,19 @@ Food and Agriculture Organization of the United Nations. (2026). Global fisherie
 
 **Relevance:** This dataset will provide the production records for the project. The system will use relevant Rwanda records to analyze fish production trends, compare aquaculture and capture fisheries, and generate dashboard summaries.
 
-**Data license:** Check the specific dataset's licence and attribution requirements before redistribution.
+**Data license:** Check the specific dataset's licence and attribution requirements before redistribution. 
+## Source 5: Research Paper
+
+**Title:** Current status of Cyprinids abundance and diversity and their potential for aquaculture production in Rwanda
+
+**Authors:** Mwimba, R., Rukera Tabaro, S., & Syaghalirwa, N. M. M.
+
+**Year:** 2024
+
+**Journal:** Rwanda Journal of Agricultural Sciences.
+
+**Description:** This research investigated the abundance and diversity of Cyprinid fish species in different water bodies in Rwanda. It identified eight species and discussed their potential for aquaculture production.
+
+**Relevance:** This study helps identify fish species found in Rwanda and supports the importance of monitoring species diversity and sustainable fish production.
+
+**Source link:** [African Journals Online](https://www.ajol.info/)

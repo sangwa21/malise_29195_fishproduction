@@ -14,6 +14,20 @@ This research log records the sources used to understand fish production in Rwan
 ## Research Sources
 
 Sources will be reviewed and documented here.
+## Source 1: Official Government Report
+
+**Title:** Annual Report 2024/2025
+
+**Organization:** Ministry of Agriculture and Animal Resources (MINAGRI), Rwanda.
+
+**Year:** 2025
+
+**Summary:** The report provides information about Rwanda's agricultural sector, including fish production. It reports total fish production of approximately 52,439.3 metric tonnes during the 2024/2025 financial year.
+
+**Relevance:** This report provides official Rwanda fish production statistics that can help establish the background and objectives of the project.
+
+**Source link:** [MINAGRI Annual Report 2024/2025](https://www.minagri.gov.rw/)
+
 ## Source 2: Research Paper
 
 **Title:** Aquaculture and aquafeed in Rwanda: Current status and perspectives

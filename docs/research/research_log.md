@@ -92,3 +92,20 @@ Food and Agriculture Organization of the United Nations. (2026). Global fisherie
 **Relevance:** This study helps identify fish species found in Rwanda and supports the importance of monitoring species diversity and sustainable fish production.
 
 **Source link:** [African Journals Online](https://www.ajol.info/)
+## Source 6: Technical Documentation
+
+**Title:** Visualizing and Analyzing Data in Oracle APEX
+
+**Organization:** Oracle Corporation
+
+**Year:** 2026
+
+**Description:** This documentation explains how Oracle APEX uses interactive reports, charts, cards, and other components to display and analyze database information.
+
+**APA Reference:**
+
+Oracle Corporation. (2026). Visualizing and analyzing data. Oracle APEX 26.1 Documentation. https://docs.oracle.com/en/database/oracle/apex/26.1/apxdc/visualizing-and-analyzing-data.html
+
+**Relevance:** This technical documentation will guide the development of the project's interactive dashboard, including charts, reports, and data summaries.
+
+**Source link:** https://docs.oracle.com/en/database/oracle/apex/26.1/apxdc/visualizing-and-analyzing-data.html

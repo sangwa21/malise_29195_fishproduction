@@ -1,8 +1,15 @@
 # Research Log
 
-Project: Rwanda Fish Production and Sustainability Monitoring System
+## Project Title
+Rwanda Fish Production and Sustainability Monitoring System
 
-Student: Malise Uwase Sangwa
-Student ID: 29195
+## Student Information
+- Name: Malise Uwase Sangwa
+- Student ID: 29195
+- Course: INSY 8311 – Database Development with PL/SQL
 
-This document records the research sources used for the project.
+## Purpose of Research
+This research log records the sources used to understand fish production in Rwanda, existing fisheries monitoring systems, available datasets, and the technologies needed to develop the project.
+
+## Research Sources
+Sources will be reviewed and documented here.

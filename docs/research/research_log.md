@@ -114,7 +114,7 @@ The project will use the relevant fisheries and aquaculture production records t
 
 **Data License and Attribution:**
 
-The applicable FAO dataset licence and attribution requirements must be checked against the downloaded dataset and its accompanying terms before redistribution. The dataset's stated CC BY 4.0 terms should be followed where applicable.
+Dataset licence: The FAO FishStat dataset is generally distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence, unless otherwise specified in the dataset metadata. It can be used for academic research and adapted with appropriate attribution to FAO. Any third-party restrictions must also be respected.
 
 **Relevance to the Project:**
 
@@ -131,6 +131,7 @@ https://www.fao.org/statistics/data-collection/fishery-and-aquaculture/en
 **Data Access:**
 
 The dataset will be downloaded from the official FAO statistics platform. The number of downloaded records and the applicable licence will be documented during data preparation.
+
 
 ---
 
